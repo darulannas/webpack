@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbelajar_webpack_code=self.webpackChunkbelajar_webpack_code||[]).push([[858],{540:(a,n,s)=>{var e=s(486);const l=s.n(e)().find([{nama:"darul annas",email:"darulannas@gmail.com",jurusan:"sistem informasi"}],{nama:"darul annas"});console.log(l)}},a=>{a(a.s=540)}]);
